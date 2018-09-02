@@ -22,6 +22,6 @@ def printer(names)
     puts greeting
   end
   assign_rooms(names).each do |room|
-    puts "room"
+    puts room
   end
 end
