@@ -10,8 +10,6 @@ def batch_badge_creator(array)
 end
 
 def assign_rooms(names)
-  badge = []
   room = 0
-  badge.push("Hello, #{name}! You'll be assigned to room #{room += 1}!")}
-  badge
+ "Hello, #{name}! You'll be assigned to room #{room += 1}!"
 end
