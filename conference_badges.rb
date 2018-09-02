@@ -9,7 +9,7 @@ def batch_badge_creator(array)
   badge
 end
 
-def assign_rooms(names)
+def assign_rooms(speakers)
   room = 0
  "Hello, #{name}! You'll be assigned to room #{room += 1}!"
 end
