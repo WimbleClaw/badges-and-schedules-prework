@@ -12,7 +12,7 @@ end
 def assign_rooms(names)
   badge = []
   room = 0
-  array.each {|name| 
+  name.each {|name| 
   badge.push("Hello, #{name}! You'll be assigned to room #{room += 1}!")}
   badge
 end
