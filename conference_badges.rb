@@ -25,4 +25,3 @@ def printer(names)
     puts "room"
   end
 end
-end
