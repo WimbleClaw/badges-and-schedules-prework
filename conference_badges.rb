@@ -9,7 +9,7 @@ def batch_badge_creator(array)
   badge
 end
 
-def assign_rooms
+def assign_rooms(names)
   badge = []
   room = 0
   array.each {|name| 
