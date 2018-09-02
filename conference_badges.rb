@@ -10,5 +10,9 @@ def batch_badge_creator(array)
 end
 
 def assign_rooms
-  
+  badge = []
+  room = 0
+  array.each {|name| 
+  badge.push("Hello, my name is #{name}.")}
+  badge
 end
